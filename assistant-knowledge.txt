@@ -264,3 +264,67 @@ Have a licensed pool contractor read it first. Randy Beard (CSLB #871188, C-53 S
 before you sign: what the contract must contain under California law, what this one leaves out, and what the plans don't show.
 Flat price: $495 for one bid, with a written summary and a 30-minute call. How contract review works
 · (949) 264-3466
+
+===== NEW POOL BUYER QUESTIONS (approved answers, Randy Beard) =====
+Q: What costs usually aren't included in a pool bid?
+A: The usual ones: hitting rock or old concrete in the dig, soils reports and engineering, pumping out groundwater, taking down and putting back a fence or wall for access, an electrical panel upgrade, the gas line run, and permit and plan-check fees. Watch for "allowances" for tile, coping, plaster and decking too. If you pick something above the allowance, you pay the difference. Ask every builder to put in writing what is excluded and the price of each likely extra.
+
+Q: What's the difference between gunite and shotcrete?
+A: Both are concrete sprayed into place over steel to form the shell of most California inground pools. Gunite is the dry mix, with water added at the nozzle, and shotcrete is usually the wet mix. Either one works when it's applied right. What matters is good crew practice: removing rebound (the material that bounces off) instead of burying it in the shell, keeping enough concrete cover over the steel, and avoiding weak "cold joints" when work stops and starts.
+
+Q: What does "workers' comp exempt" mean on a listing?
+A: It means the contractor told CSLB it has no employees. If a crew shows up to build your pool, ask whose employees they are and for proof of workers' compensation coverage. An uninsured worker hurt on your property can become your problem.
+
+Q: What questions should I ask a pool builder before I hire them?
+A: Ask for the license number and check it yourself. Ask for names of recent customers you can call, and what's excluded from the bid. Ask who pulls the permit and which two drowning-prevention safety features are in the price. Ask for every piece of equipment by make and model, what the warranty covers and who honors it, and who does the plaster start-up. Ask about the payment schedule too: it should be in dollars, tied to stages of work, never ahead of the work.
+
+Q: Is the contractor's bond enough protection if something goes wrong?
+A: Rarely. The $25,000 contractor's bond is the legal minimum, and everyone with a claim against that license shares it. On a pool that costs many times that, the contract is your real protection: keep your payments behind the work and collect lien releases as you pay.
+
+Q: Can you tell me which builder is best?
+A: No. This site doesn't rate or rank builders, no builder pays to be listed, and Randy receives nothing for referrals. What I can do is show you what the state's record says about a builder, and you can check the license yourself at cslb.ca.gov. Then get at least three written bids for the same scope and talk to each builder's recent customers.
+
+Q: What does California require in a pool contract?
+A: Among other things: the builder's name and license number matching CSLB, a description of the project with a plan and scale drawing of the pool, the down payment and progress payment sections, start and completion dates, change-order rules, the mechanics lien warning, and the notice of cancellation. Both of you sign and date it before work starts, and you get a completely filled-in copy. The rules are in Business and Professions Code sections 7159, 7159.5 and 7165 to 7168, and a pool contract that leaves required parts out can be unenforceable by the contractor. This is a practical checklist, not legal advice.
+
+Q: Can I cancel a pool contract after I sign it?
+A: A California home improvement contract has to include a notice of cancellation. In general it gives you three business days to cancel, or five if you're 65 or older. Make sure the notice is attached and read how to give notice. This is general information, not legal advice.
+
+Q: What is a mechanics lien, and how do I protect myself?
+A: If the builder doesn't pay its suppliers, subcontractors or workers, they can put a lien on your home. You could end up paying twice for the same work. Your contract has to include the mechanics lien warning. Ask for lien releases from the builder's suppliers and subs as you pay, and keep payments behind the work.
+
+Q: The builder wants to charge extra for something mid-job. Is that allowed?
+A: Changes have to be written up as a change order and signed by both of you before the extra work is done. A contract that is vague about rock, digging, allowances or deck area invites a large final bill, so pin those prices down before you sign. If a big extra shows up, ask for it in writing, with the price, before the crew goes ahead.
+
+Q: Can someone review my pool bid before I sign?
+A: Yes. Randy Beard, a licensed pool contractor and construction defect expert witness, reviews one residential pool bid for a flat $495. That covers the contract, plans and specifications, checks them against California's requirements, and includes a written summary of what to fix and what to ask plus a 30-minute call. A second builder's bid for the same pool is $250 more, and Randy checks for conflicts with your builder before he starts.
+
+Q: Does a new pool need a permit, and who pulls it?
+A: Yes, a new pool needs a building permit. The contractor usually pulls it, but the contract should say so in writing, along with who pays the permit and plan-check fees and any corrections the city requires. Keep the permit and the signed-off inspection card. They prove the pool is legal when you refinance or sell.
+
+Q: What safety features does California require? Do I need a fence?
+A: When a permit is issued for a new or remodeled pool or spa at a single-family home, California requires at least two of seven drowning-prevention features (Health and Safety Code section 115922). They include an isolation fence, removable mesh fencing, a safety cover, exit alarms on doors, self-closing latches on doors to the pool, and a water-entry alarm. An isolation fence has to be at least 60 inches tall, with a self-closing, self-latching gate that opens away from the pool. Your city may require more, so ask the builder which two features are in the price.
+
+Q: Are pool drains dangerous? What should I look for?
+A: A single suction outlet can hold a swimmer against it, so the codes require protection on every suction outlet. On a new pool that usually means split drains, two outlets far enough apart that one body can't block both. Drain covers have to be rated and they have an expiration date. If you have a pool and a spa, check both, because people often fix one and forget the other.
+
+Q: Which equipment brand should I get: Pentair, Hayward or Jandy?
+A: All three make good pumps, filters, heaters and automation. The brand matters less than sizing the pump to the pipes, using a variable-speed pump, choosing the right heating approach, and picking a brand your local service companies stock and know. Whatever you choose, get every piece in the contract by make and model number. "Pump, filter, heater" is not a specification.
+
+Q: Do I need a variable-speed pump?
+A: In practice, yes. Federal efficiency rules and California's energy code make the filter pump on a new pool a variable-speed or multi-speed pump. The code also limits pump flow and requires the plumbing to be sized and laid out to cut pressure loss. A big pump on small pipe wears out early and wastes power, so ask the builder for pipe sizes, the pump size and the design flow.
+
+Q: Did California ban gas pool heaters? Should I get a heat pump?
+A: No, California did not ban gas pool heaters. Under the state energy code (Title 24, section 110.4(c)), though, a gas heater by itself is not one of the ways a new pool's heating system can pass. A common setup is a heat pump as the main heater, with gas as a supplement. Before you add a big gas heater, have the gas utility confirm the meter and line can supply it, and confirm the electrical service can carry a heat pump.
+
+Q: What is pool bonding, and why does the inspector care?
+A: Bonding ties the pool's steel, the equipment, the lights and the metal around the pool together with copper so they all sit at the same electrical potential. That keeps swimmers from getting shocked. The electrical code requires it and the inspector checks it before it's covered up. Walkable decks and coping generally need a full bonding grid, not just a single wire, so ask the builder how the deck will be bonded.
+
+Q: Should the pool be plastered before or after the deck and landscaping?
+A: After, if you can. Fresh plaster is at its most vulnerable during its first few weeks. Plaster it before the deck, pavers and planting are done and it sits next to fertilizer, mulch, sawdust and wind-blown debris, all of which can stain it. If the schedule forces plaster to go in early, the contract should say who is responsible for staining from later work.
+
+Q: How can I tell if my new pool is leaking?
+A: Run an overnight test. In the evening, turn off the breakers to the pool equipment and shut off the auto-fill valve, because an auto-fill hides a leak by quietly topping the pool off. Mark and photograph the water line in the pool, the spa and any catch basin. If a level drops more than about a quarter inch overnight, you're losing water. Tell the builder in writing.
+
+Q: I see cracks in my new pool shell, or the job has stalled. What should I do?
+A: I can't diagnose a specific pool. In general, though, cracks in a shell before it's plastered shouldn't just be covered up, because plaster is a finish, not structure. Photograph them every few days with a tape measure in the frame, and put your concerns to the builder in writing. If a job stalls or a dispute won't resolve, CSLB will try to mediate most complaints. I can also pass your details to Randy if you'd like him to call you.
