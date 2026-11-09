@@ -1,0 +1,8 @@
+# CA Pool Builders
+
+> California pool builder license check, by Randy Beard. Every California C-53 pool contractor license from CSLB public data (as of 2026-11-06), by county and city, with status, bond, workers' comp and plain-language flags. No paid placement, no ratings.
+
+- [California by county](https://capoolbuilders.com/directory/california/)
+- [Before you sign a pool contract](https://capoolbuilders.com/before-you-sign/)
+- [Pool contract review by Randy Beard](https://capoolbuilders.com/contract-review/)
+- [About the publisher](https://capoolbuilders.com/about/)
