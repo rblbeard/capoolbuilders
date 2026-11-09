@@ -18,6 +18,25 @@ contractor who testifies in pool construction defect cases. No ratings, no paid 
 <div class="stat"><b>November 6, 2026</b>data as of</div></div>
 <p class="note"><b>Every builder on this site holds a California C-53 Swimming Pool license, checked against the state's records.</b>
 Directories built from map listings and reviews include businesses with no pool license at all.</p>
+<section id="near" hidden></section><script>
+(async()=>{try{
+const g=await (await fetch('/api/near',{cache:'no-store'})).json();
+if(!g||g.regionCode!=='CA'||!g.lat)return;
+const idx=await (await fetch('/near-index.json')).json();
+const R=3958.8,rad=x=>x*Math.PI/180;
+const dist=(a,b,c,d)=>{const h=Math.sin(rad(c-a)/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(rad(d-b)/2)**2;return 2*R*Math.asin(Math.sqrt(h));};
+const seen=new Set(),out=[];
+idx.map(r=>[dist(+g.lat,+g.lon,r[4],r[5]),r]).sort((x,y)=>x[0]-y[0]).forEach(([m,r])=>{
+ if(m>45||out.length>=8||seen.has(r[1]))return;seen.add(r[1]);out.push([m,r]);});
+if(!out.length)return;
+const e=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const el=document.getElementById('near');
+el.innerHTML='<h2>Pool builders near '+e(g.city||'you')+'</h2><ul class="grid">'+out.map(([m,r])=>
+ '<li><a href="'+r[1]+'">'+e(r[0])+'<span>'+r[3]+' builder'+(r[3]==1?'':'s')+' · about '+Math.max(1,Math.round(m))+' mi</span></a></li>').join('')+
+ '</ul><p class="asof">Based on your approximate location. <a href="/directory/california/">All counties</a></p>';
+el.hidden=false;
+}catch(_){}})();
+</script>
 <h2>Find builders by county</h2><ul class="grid"><li><a href="/directory/california/los-angeles-county/">Los Angeles County<span>665 builders</span></a></li><li><a href="/directory/california/riverside-county/">Riverside County<span>427 builders</span></a></li><li><a href="/directory/california/orange-county/">Orange County<span>315 builders</span></a></li><li><a href="/directory/california/san-diego-county/">San Diego County<span>250 builders</span></a></li><li><a href="/directory/california/san-bernardino-county/">San Bernardino County<span>175 builders</span></a></li><li><a href="/directory/california/ventura-county/">Ventura County<span>133 builders</span></a></li><li><a href="/directory/california/sacramento-county/">Sacramento County<span>93 builders</span></a></li><li><a href="/directory/california/santa-clara-county/">Santa Clara County<span>80 builders</span></a></li><li><a href="/directory/california/contra-costa-county/">Contra Costa County<span>71 builders</span></a></li><li><a href="/directory/california/kern-county/">Kern County<span>67 builders</span></a></li><li><a href="/directory/california/placer-county/">Placer County<span>59 builders</span></a></li><li><a href="/directory/california/stanislaus-county/">Stanislaus County<span>58 builders</span></a></li><li><a href="/directory/california/">All counties<span>every county A to Z</span></a></li></ul>
 <h2>Largest cities</h2><ul class="grid"><li><a href="/directory/california/bakersfield/">Bakersfield<span>57 builders</span></a></li><li><a href="/directory/california/indio/">Indio<span>50 builders</span></a></li><li><a href="/directory/california/san-diego/">San Diego<span>50 builders</span></a></li><li><a href="/directory/california/sylmar/">Sylmar<span>46 builders</span></a></li><li><a href="/directory/california/simi-valley/">Simi Valley<span>40 builders</span></a></li><li><a href="/directory/california/san-jose/">San Jose<span>40 builders</span></a></li><li><a href="/directory/california/riverside/">Riverside<span>38 builders</span></a></li><li><a href="/directory/california/los-angeles/">Los Angeles<span>35 builders</span></a></li><li><a href="/directory/california/temecula/">Temecula<span>33 builders</span></a></li><li><a href="/directory/california/corona/">Corona<span>30 builders</span></a></li><li><a href="/directory/california/anaheim/">Anaheim<span>30 builders</span></a></li><li><a href="/directory/california/sacramento/">Sacramento<span>29 builders</span></a></li><li><a href="/directory/california/santa-ana/">Santa Ana<span>28 builders</span></a></li><li><a href="/directory/california/palm-desert/">Palm Desert<span>27 builders</span></a></li><li><a href="/directory/california/el-cajon/">El Cajon<span>26 builders</span></a></li><li><a href="/directory/california/cathedral-city/">Cathedral City<span>26 builders</span></a></li></ul>
 <h2>What each listing shows</h2>
