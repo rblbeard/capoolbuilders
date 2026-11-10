@@ -1,0 +1,78 @@
+# Stout Design - Build Inc | Pool Contractor in Huntington Beach, CA | License #980007
+
+> CSLB license record for Stout Design - Build Inc, Huntington Beach: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/huntington-beach/stout-design-build-inc-huntington-beach/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [Orange County](https://capoolbuilders.com/directory/california/orange-county/) / [Huntington Beach](https://capoolbuilders.com/directory/california/huntington-beach/) / Stout Design - Build Inc
+
+# Stout Design - Build Inc
+
+Pool contractor in Huntington Beach, Orange County · CSLB license #980007 Active
+
+License renewal is due January 31, 2027.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| B General Building, C-27 Landscaping, C-53 Swimming Pool  
+First licensed| January 9, 2013 (13 years)  
+License expires| January 31, 2027  
+Bond| $25,000 contractor's bond, American Contractors Indemnity Company  
+Workers' comp| Workers' Compensation Insurance, Employers Assurance Company, through December 1, 2026  
+Phone on file| (310) 853-0332  
+  
+## People on the license
+
+  * **Thomas Michael| Stout Tom Michael Stout** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+
+
+
+## What its website mentions
+
+Website: [stoutdesignbuild.com](http://www.stoutdesignbuild.com/)
+
+  * ✓ Builds new pools
+  * ✓ Gunite or shotcrete pools
+  * ✓ Fiberglass pools
+  * ✓ Remodels and replastering
+  * ✓ Spas and hot tubs
+  * ✓ Water and fire features
+  * ✓ Decks, hardscape and outdoor kitchens
+  * ✓ Repairs and equipment
+
+
+
+Not mentioned on the website: offers financing, mentions a warranty, commercial pool work. Ask the builder.
+
+Read from the builder's own website on November 9, 2026. A service listed here means the website mentions it; it is not a recommendation or a check of the work.
+
+## Other pool builders in Huntington Beach
+
+  * [Triune Pools Inc](https://capoolbuilders.com/company/california/huntington-beach/triune-pools-inc-huntington-beach/) · license #949808
+  * [Aquapure Pools](https://capoolbuilders.com/company/california/huntington-beach/aquapure-pools-huntington-beach/) · license #530566
+  * [Blue Lagoon Pools Inc](https://capoolbuilders.com/company/california/huntington-beach/blue-lagoon-pools-inc-huntington-beach/) · license #1002878
+  * [Commercial Pool Corp Corp](https://capoolbuilders.com/company/california/huntington-beach/commercial-pool-corp-corp-huntington-beach/) · license #1126780
+
+
+
+[All pool builders in Huntington Beach](https://capoolbuilders.com/directory/california/huntington-beach/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #980007 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=980007). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).

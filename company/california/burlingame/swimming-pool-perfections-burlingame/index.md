@@ -1,0 +1,60 @@
+# Swimming Pool Perfections | Pool Contractor in Burlingame, CA | License #588006
+
+> CSLB license record for Swimming Pool Perfections, Burlingame: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/burlingame/swimming-pool-perfections-burlingame/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [San Mateo County](https://capoolbuilders.com/directory/california/san-mateo-county/) / [Burlingame](https://capoolbuilders.com/directory/california/burlingame/) / Swimming Pool Perfections
+
+# Swimming Pool Perfections
+
+Pool contractor in Burlingame, San Mateo County · CSLB license #588006 Active
+
+No flags in the CSLB record as of this date.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| C-53 Swimming Pool, D-35 Pool and Spa Maintenance  
+First licensed| February 8, 1990 (36 years)  
+License expires| May 31, 2028  
+Bond| $25,000 contractor's bond, Philadelphia Indemnity Insurance Company  
+Workers' comp| Workers' Compensation Insurance, Insurance Company of the West, through October 1, 2027  
+Phone on file| (650) 366-2029  
+  
+## People on the license
+
+  * **Gregory John Yannazzo** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance)
+  * **Eric Michael Christmann** : Officer
+  * **Tina Louise Yannazzo** : Officer
+
+
+
+## Other pool builders in Burlingame
+
+  * [Bay Area Pools Inc](https://capoolbuilders.com/company/california/burlingame/bay-area-pools-inc-burlingame/) · license #680665
+  * [Hill's Pool Service Inc](https://capoolbuilders.com/company/california/burlingame/hill-s-pool-service-inc-burlingame/) · license #387590
+  * [Kirby's Pool](https://capoolbuilders.com/company/california/burlingame/kirby-s-pool-burlingame/) · license #858963
+
+
+
+[All pool builders in Burlingame](https://capoolbuilders.com/directory/california/burlingame/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #588006 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=588006). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).

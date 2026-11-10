@@ -1,0 +1,61 @@
+# Continental Precision Pools Inc | Pool Contractor in Moreno Valley, CA | License #813565
+
+> CSLB license record for Continental Precision Pools Inc, Moreno Valley: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/moreno-valley/continental-precision-pools-inc-moreno-valley/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [Riverside County](https://capoolbuilders.com/directory/california/riverside-county/) / [Moreno Valley](https://capoolbuilders.com/directory/california/moreno-valley/) / Continental Precision Pools Inc
+
+# Continental Precision Pools Inc
+
+Pool contractor in Moreno Valley, Riverside County · CSLB license #813565 Active
+
+This license is C-53 only. A pool project that also includes a patio cover, outdoor kitchen electrical, or work on the house may need other licensed trades.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| C-53 Swimming Pool  
+First licensed| October 10, 2002 (24 years)  
+License expires| October 31, 2028  
+Bond| $25,000 contractor's bond, Philadelphia Indemnity Insurance Company  
+Workers' comp| Workers' Compensation Insurance, Wellfleet New York Insurance Company, through April 14, 2027  
+Phone on file| (951) 924-5141  
+  
+## People on the license
+
+  * **Craig David Ramirez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Christina Lauran Ramirez** : Officer
+  * **Susan Elizabeth Ramirez** : Officer
+
+
+
+## Other pool builders in Moreno Valley
+
+  * [Dunn Rite Construction](https://capoolbuilders.com/company/california/moreno-valley/dunn-rite-construction-moreno-valley/) · license #962066
+  * [Dye Pool Company Inc](https://capoolbuilders.com/company/california/moreno-valley/dye-pool-company-inc-moreno-valley/) · license #1062672
+  * [Goca Pools and Spa](https://capoolbuilders.com/company/california/moreno-valley/goca-pools-and-spa-moreno-valley/) · license #1049347
+  * [Martinez Alberto](https://capoolbuilders.com/company/california/moreno-valley/martinez-alberto-moreno-valley/) · license #1132189
+
+
+
+[All pool builders in Moreno Valley](https://capoolbuilders.com/directory/california/moreno-valley/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #813565 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=813565). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).

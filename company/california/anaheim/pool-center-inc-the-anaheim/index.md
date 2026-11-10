@@ -1,0 +1,62 @@
+# Pool Center Inc the | Pool Contractor in Anaheim, CA | License #736686
+
+> CSLB license record for Pool Center Inc the, Anaheim: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/anaheim/pool-center-inc-the-anaheim/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [Orange County](https://capoolbuilders.com/directory/california/orange-county/) / [Anaheim](https://capoolbuilders.com/directory/california/anaheim/) / Pool Center Inc the
+
+# Pool Center Inc the
+
+Pool contractor in Anaheim, Orange County · CSLB license #736686 Active
+
+This license is C-53 only. A pool project that also includes a patio cover, outdoor kitchen electrical, or work on the house may need other licensed trades.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| C-53 Swimming Pool  
+First licensed| June 3, 1997 (29 years)  
+License expires| June 30, 2027  
+Bond| No contractor bond on record  
+Workers' comp| Workers' Compensation Insurance, Insurance Company of the West, through August 8, 2027  
+Phone on file| (714) 632-0134  
+  
+## People on the license
+
+  * **William Glenn Campbell** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Robert Arthur Campbell** : Officer
+  * **Jaime Orona** : Officer
+  * **Jose Ledesma** : Officer
+
+
+
+## Other pool builders in Anaheim
+
+  * [Pool Connection Inc the](https://capoolbuilders.com/company/california/anaheim/pool-connection-inc-the-anaheim/) · license #1062685
+  * [Pool Effects Inc](https://capoolbuilders.com/company/california/anaheim/pool-effects-inc-anaheim/) · license #1058518
+  * [Pool Icons](https://capoolbuilders.com/company/california/anaheim/pool-icons-anaheim/) · license #1077783
+  * [Socal Custom Pools Inc](https://capoolbuilders.com/company/california/anaheim/socal-custom-pools-inc-anaheim/) · license #1160624
+
+
+
+[All pool builders in Anaheim](https://capoolbuilders.com/directory/california/anaheim/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #736686 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=736686). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).

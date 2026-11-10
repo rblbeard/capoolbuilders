@@ -1,0 +1,76 @@
+# Superior Construction and Landscape | Pool Contractor in Castaic, CA | License #799849
+
+> CSLB license record for Superior Construction and Landscape, Castaic: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/castaic/superior-construction-and-landscape-castaic/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [Los Angeles County](https://capoolbuilders.com/directory/california/los-angeles-county/) / [Castaic](https://capoolbuilders.com/directory/california/castaic/) / Superior Construction and Landscape
+
+# Superior Construction and Landscape
+
+Pool contractor in Castaic, Los Angeles County · CSLB license #799849 Active
+
+No flags in the CSLB record as of this date.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| B General Building, C-8, C-27 Landscaping, C-53 Swimming Pool, D-06 Concrete Related Services  
+First licensed| October 2, 2001 (25 years)  
+License expires| October 31, 2027  
+Bond| $25,000 contractor's bond, Great American Insurance Company  
+Workers' comp| Workers' Compensation Insurance, Pie Insurance Company (the), through October 15, 2027  
+Phone on file| (818) 838-0833  
+  
+## People on the license
+
+  * **Humberto| Cedano Albert Cedano** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (D-06 Concrete Related Services)
+  * **Thomas John Mulhern** : Officer
+
+
+
+## What its website mentions
+
+Website: [superiorpavers.com/free-estimate-index](https://www.superiorpavers.com/free-estimate-index)
+
+The website shows this CSLB license number.
+
+  * ✓ Builds new pools
+  * ✓ Decks, hardscape and outdoor kitchens
+  * ✓ Offers financing
+
+
+
+Not mentioned on the website: gunite or shotcrete pools, fiberglass pools, remodels and replastering, spas and hot tubs, water and fire features, repairs and equipment, mentions a warranty, commercial pool work. Ask the builder.
+
+Read from the builder's own website on November 9, 2026. A service listed here means the website mentions it; it is not a recommendation or a check of the work.
+
+## Other pool builders in Castaic
+
+  * [Thomas Pools Inc A California Corporation](https://capoolbuilders.com/company/california/castaic/thomas-pools-inc-a-california-corporation-castaic/) · license #945615
+  * [Thor](https://capoolbuilders.com/company/california/castaic/thor-castaic/) · license #576113
+  * [USA Tech Electric](https://capoolbuilders.com/company/california/castaic/usa-tech-electric-castaic/) · license #1061065
+  * [Bennett Pool & Spa Inc](https://capoolbuilders.com/company/california/castaic/bennett-pool-spa-inc-castaic/) · license #703462
+
+
+
+[All pool builders in Castaic](https://capoolbuilders.com/directory/california/castaic/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #799849 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=799849). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).

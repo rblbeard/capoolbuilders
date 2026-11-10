@@ -1,0 +1,58 @@
+# Downtown Pools | Pool Contractor in Pico Rivera, CA | License #990127
+
+> CSLB license record for Downtown Pools, Pico Rivera: status, classifications, bond and workers' comp, as of November 6, 2026.
+
+Source: https://capoolbuilders.com/company/california/pico-rivera/downtown-pools-pico-rivera/
+
+[Home](https://capoolbuilders.com/) / [California](https://capoolbuilders.com/directory/california/) / [Los Angeles County](https://capoolbuilders.com/directory/california/los-angeles-county/) / [Pico Rivera](https://capoolbuilders.com/directory/california/pico-rivera/) / Downtown Pools
+
+# Downtown Pools
+
+Pool contractor in Pico Rivera, Los Angeles County · CSLB license #990127 Active
+
+No flags in the CSLB record as of this date.
+
+## License record
+
+Business type| Corporation  
+---|---  
+Licenses held| C-53 Swimming Pool, D-35 Pool and Spa Maintenance  
+First licensed| January 24, 2014 (12 years)  
+License expires| January 31, 2028  
+Bond| $25,000 contractor's bond, Philadelphia Indemnity Insurance Company  
+Workers' comp| Workers' Compensation Insurance, Wellfleet New York Insurance Company, through October 16, 2026  
+Phone on file| (310) 341-6123  
+  
+## People on the license
+
+  * **Fabian Vincent Lopez** : Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+
+
+
+## Other pool builders in Pico Rivera
+
+  * [L E O S Pool Plasters Inc](https://capoolbuilders.com/company/california/pico-rivera/l-e-o-s-pool-plasters-inc-pico-rivera/) · license #1161199
+  * [Pools By Franco](https://capoolbuilders.com/company/california/pico-rivera/pools-by-franco-pico-rivera/) · license #953577
+  * [Art's Pool Plastering & Remodeling Inc](https://capoolbuilders.com/company/california/pico-rivera/art-s-pool-plastering-remodeling-inc-pico-rivera/) · license #906751
+
+
+
+[All pool builders in Pico Rivera](https://capoolbuilders.com/directory/california/pico-rivera/)
+
+## What a pool contractor checks here
+
+The $25,000 contractor's bond is the legal minimum, and it is shared by everyone with a claim against this license. On a $100,000 pool it covers very little, so it is not a substitute for a good contract.
+
+Before you sign: confirm the license is active on that day, that the business name and license number on the contract match this record exactly, and that the salesperson is either on this license or registered with CSLB as a home improvement salesperson. [The full checklist](https://capoolbuilders.com/before-you-sign/).
+
+## Your next steps
+
+  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+
+
+
+Source: Contractors State License Board, Statewide Public Database Files (License Master and Personnel), as of November 6, 2026. Status can change at any time: [check license #990127 live at CSLB](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=990127). Something wrong on this page? [Request a correction](https://capoolbuilders.com/corrections/).
