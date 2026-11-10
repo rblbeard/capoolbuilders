@@ -266,11 +266,41 @@ Flat price: $495 for one bid, with a written summary and a 30-minute call. How c
 · (949) 264-3466
 
 ===== NEW POOL BUYER QUESTIONS (approved answers, Randy Beard) =====
+Q: How much does an inground pool cost in California?
+A: It varies too much for a single number to mean anything. The size, the shape, a hillside or poor soil, access for equipment, the finish, the deck, the equipment and the city's permit fees can each move the price a lot. Get at least three written bids for the same scope, priced line by line, and compare what each one includes before you compare totals. If you'd like a second set of eyes on a bid, Randy reviews one residential bid for a flat $495.
+
 Q: What costs usually aren't included in a pool bid?
 A: The usual ones: hitting rock or old concrete in the dig, soils reports and engineering, pumping out groundwater, taking down and putting back a fence or wall for access, an electrical panel upgrade, the gas line run, and permit and plan-check fees. Watch for "allowances" for tile, coping, plaster and decking too. If you pick something above the allowance, you pay the difference. Ask every builder to put in writing what is excluded and the price of each likely extra.
 
+Q: How do people usually pay for a pool?
+A: Common routes are a home equity loan or line of credit, a cash-out refinance, a personal loan, or financing arranged through the pool company. Compare the rates and terms with your own lender before you sign anything the builder offers. Whatever the source of the money, California rules still apply: a small down payment, then progress payments tied to work actually done, never ahead of it. This is general information, not financial advice.
+
+Q: Will a pool raise my home's value, and will my insurance go up?
+A: Sometimes a pool helps a home sell, but it doesn't reliably return what it costs, and that depends a lot on the neighborhood. Homeowner's insurance premiums usually go up, and insurers often recommend more liability coverage, so call your agent before you build. A pool in poor shape can scare buyers off, so keep your permits, contract and service records.
+
+Q: What does a pool cost to run each month?
+A: It depends mostly on two things: the pump and the heat. A variable-speed pump sized to the plumbing costs much less to run than an oversized one. Heating is usually the biggest bill, whether that's a heat pump on electricity or a gas heater. Your local electric and gas rates matter, so ask the builder for the pump's design flow and the heater's size, and check them against your utility rates.
+
+Q: How long does it take to build a pool in California?
+A: Plan on months, not weeks. Design, engineering and the city's plan check alone can take several weeks, depending on the city. Construction then depends on the weather, inspections, the subcontractors' schedules and how much deck and landscaping work is involved. Make sure the contract states a start date and a completion date, and says what happens if the job stalls.
+
+Q: What are the main stages of building a gunite pool?
+A: Roughly: plans and permit, layout and excavation, steel, plumbing and electrical, then the gunite or shotcrete shell, which is inspected along the way. Next come tile and coping, the deck and the equipment, and the plaster or interior finish goes on last, followed by a careful start-up. Take photos at every stage, especially of the steel before the shell is shot, because those stages are covered up for good.
+
+Q: What happens if it rains during construction, or during the winter after?
+A: If your pool is being built going into the rainy season, ask the builder now what the rain plan is: a pump on site, a cover on the dirt pile, and a way to keep water out of open excavations. Once the pool is finished, don't drain it to "make room" for rain. A full pool's weight holds it down, and an empty shell in wet ground can crack or even lift. If overflow heads toward the house, lower the water a few inches, not feet, and keep the deck drains clear.
+
 Q: What's the difference between gunite and shotcrete?
 A: Both are concrete sprayed into place over steel to form the shell of most California inground pools. Gunite is the dry mix, with water added at the nozzle, and shotcrete is usually the wet mix. Either one works when it's applied right. What matters is good crew practice: removing rebound (the material that bounces off) instead of burying it in the shell, keeping enough concrete cover over the steel, and avoiding weak "cold joints" when work stops and starts.
+
+Q: Should I get a gunite, fiberglass or vinyl pool?
+A: Gunite or shotcrete (concrete) pools can be any shape or size and are the most common in California, but they need a good design for the soil and careful finish care. Fiberglass shells are factory-made, go in faster and come in set shapes and sizes, and vinyl liners cost less up front but the liner needs replacing every so often. Whichever you choose, the contractor who builds it should hold the C-53 Swimming Pool license, and the soil and site should drive the design.
+
+Q: Do I need a soils report?
+A: Often, yes, and on a hillside, on expansive clay or on fill it's usually essential. Standard pool plans often carry one set of details for ordinary soil and a heavier one for expansive soil. Without a soils report showing the ground is good, nobody should be picking the lighter design just because it's cheaper. A soils report costs a small fraction of the job, so ask who orders it, who pays, and whether the pool is built to it.
+
+Q: What license does a California pool builder need?
+A: The C-53 Swimming Pool license from the Contractors State License Board covers building and remodeling pools, including plastering. A B General Building contractor can take on a pool as part of a larger project. CSLB says a B or C-27 contractor contracting for a pool must hold the C-53 classification or subcontract the pool work to a licensed C-53 contractor. Every business in this directory holds a C-53, checked against CSLB records.
 
 Q: What does "workers' comp exempt" mean on a listing?
 A: It means the contractor told CSLB it has no employees. If a crew shows up to build your pool, ask whose employees they are and for proof of workers' compensation coverage. An uninsured worker hurt on your property can become your problem.
@@ -283,6 +313,12 @@ A: Rarely. The $25,000 contractor's bond is the legal minimum, and everyone with
 
 Q: Can you tell me which builder is best?
 A: No. This site doesn't rate or rank builders, no builder pays to be listed, and Randy receives nothing for referrals. What I can do is show you what the state's record says about a builder, and you can check the license yourself at cslb.ca.gov. Then get at least three written bids for the same scope and talk to each builder's recent customers.
+
+Q: How much can a pool builder ask for as a down payment?
+A: On a California home improvement contract, no more than $1,000 or 10 percent of the contract price, whichever is less. A bigger deposit request is a warning sign, so ask about it before you sign. This is general information, not legal advice.
+
+Q: How should progress payments work, and when is the final payment due?
+A: Payments should be listed in dollars and tied to stages of work, and no payment should run ahead of the work actually done. That's California law, and CSLB calls running ahead "frontloading." Hold the final payment until the plaster start-up is finished, the city's final inspection is signed off, and the equipment, decking and fencing in the contract are complete. Before that last check, run a garden hose on the new deck and make sure the water reaches the drains and comes out the other end.
 
 Q: What does California require in a pool contract?
 A: Among other things: the builder's name and license number matching CSLB, a description of the project with a plan and scale drawing of the pool, the down payment and progress payment sections, start and completion dates, change-order rules, the mechanics lien warning, and the notice of cancellation. Both of you sign and date it before work starts, and you get a completely filled-in copy. The rules are in Business and Professions Code sections 7159, 7159.5 and 7165 to 7168, and a pool contract that leaves required parts out can be unenforceable by the contractor. This is a practical checklist, not legal advice.
@@ -308,6 +344,9 @@ A: When a permit is issued for a new or remodeled pool or spa at a single-family
 Q: Are pool drains dangerous? What should I look for?
 A: A single suction outlet can hold a swimmer against it, so the codes require protection on every suction outlet. On a new pool that usually means split drains, two outlets far enough apart that one body can't block both. Drain covers have to be rated and they have an expiration date. If you have a pool and a spa, check both, because people often fix one and forget the other.
 
+Q: Do I need HOA approval for a pool?
+A: If you're in an HOA, almost certainly. Most CC&Rs require architectural approval before any exterior work, and a city permit doesn't replace it. Get the HOA's written approval before you sign with a builder, and make sure the plans you submit match what will be built. Check your own CC&Rs and architectural guidelines for the rules and the timeline.
+
 Q: Which equipment brand should I get: Pentair, Hayward or Jandy?
 A: All three make good pumps, filters, heaters and automation. The brand matters less than sizing the pump to the pipes, using a variable-speed pump, choosing the right heating approach, and picking a brand your local service companies stock and know. Whatever you choose, get every piece in the contract by make and model number. "Pump, filter, heater" is not a specification.
 
@@ -317,8 +356,20 @@ A: In practice, yes. Federal efficiency rules and California's energy code make 
 Q: Did California ban gas pool heaters? Should I get a heat pump?
 A: No, California did not ban gas pool heaters. Under the state energy code (Title 24, section 110.4(c)), though, a gas heater by itself is not one of the ways a new pool's heating system can pass. A common setup is a heat pump as the main heater, with gas as a supplement. Before you add a big gas heater, have the gas utility confirm the meter and line can supply it, and confirm the electrical service can carry a heat pump.
 
+Q: Should I get a saltwater pool or regular chlorine?
+A: A salt pool is still a chlorine pool. The salt cell makes chlorine from salt in the water, and many owners like the feel and not having to handle chlorine. Salt is harder on metal, natural stone and some equipment, and the cell needs cleaning and eventual replacement. On a new plaster finish, the plaster start-up guidelines say to hold off adding salt and running the cell for the first several weeks while the finish cures. Either way, the finish lasts or fails on balanced water, so follow your finish maker's chemistry ranges.
+
+Q: Is pool automation worth it?
+A: Automation is a convenience: it runs the pump schedule, heater, lights and sometimes chemical feeding from your phone. It only does what it's set up to do, though, so someone still needs to test the water and read the results. Bids often list automation, lighting, a cleaner and a cover as extras, so get each one priced and listed by model number.
+
 Q: What is pool bonding, and why does the inspector care?
 A: Bonding ties the pool's steel, the equipment, the lights and the metal around the pool together with copper so they all sit at the same electrical potential. That keeps swimmers from getting shocked. The electrical code requires it and the inspector checks it before it's covered up. Walkable decks and coping generally need a full bonding grid, not just a single wire, so ask the builder how the deck will be bonded.
+
+Q: Plaster, quartz or pebble: which interior finish should I choose?
+A: White plaster costs the least, quartz adds color and some durability, and pebble finishes generally cost the most and hold up the longest. More than the product itself, how long a finish lasts depends on how it was mixed and applied, the start-up, and keeping the water balanced afterward. Get the finish named by product in the bid, and ask what the finish warranty excludes as "water chemistry."
+
+Q: What is plaster "start-up," and why does it matter?
+A: Start-up is the brushing and water-chemistry routine during the first weeks after a new finish goes in. Most of the cement in the plaster cures during the first 28 days, and that care decides whether the finish spots, streaks, cracks or discolors. Two big ones: no acid washing a fresh finish to clear the haze, and no salt cell or chemical feeders until the start-up guidelines allow. Ask who does the start-up, for how long, and whether it's in the price.
 
 Q: Should the pool be plastered before or after the deck and landscaping?
 A: After, if you can. Fresh plaster is at its most vulnerable during its first few weeks. Plaster it before the deck, pavers and planting are done and it sits next to fertilizer, mulch, sawdust and wind-blown debris, all of which can stain it. If the schedule forces plaster to go in early, the contract should say who is responsible for staining from later work.
@@ -328,3 +379,6 @@ A: Run an overnight test. In the evening, turn off the breakers to the pool equi
 
 Q: I see cracks in my new pool shell, or the job has stalled. What should I do?
 A: I can't diagnose a specific pool. In general, though, cracks in a shell before it's plastered shouldn't just be covered up, because plaster is a finish, not structure. Photograph them every few days with a tape measure in the frame, and put your concerns to the builder in writing. If a job stalls or a dispute won't resolve, CSLB will try to mediate most complaints. I can also pass your details to Randy if you'd like him to call you.
+
+Q: How long do I have to bring a claim if my pool turns out to be defective?
+A: Deadlines for defect claims can be shorter than people expect, and they depend on your facts, so talk to a construction lawyer early rather than waiting. Keep your contract, permits, photos and every written message with the builder. I can't give legal advice, but I can pass your details to Randy if you'd like him to take a look. This is general information, not legal advice.
