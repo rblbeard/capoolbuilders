@@ -82,6 +82,12 @@ Search
 
 
 
+## Watch: a pool expert explains
+
+[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[Where the water disappears: how vanishing edge pools really work](https://youtu.be/ZWxVnID8AJ8)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)
+
+Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
+
 ## Why this exists
 
 Randy Beard has worked in the California pool trade since 1979, is a former CSLB investigator, and has given deposition testimony in more than 100 construction defect matters. Most of the pool disputes he sees started with a contract the owner signed without reading closely. A license check takes two minutes. A contract review before signing costs far less than a lawsuit after. [More about Randy](https://capoolbuilders.com/about/).

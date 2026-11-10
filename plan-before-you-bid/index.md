@@ -39,3 +39,9 @@ This is a written specification and bid package from a licensed C-53 pool contra
 Email what you have (photos, a survey or plot plan, your wish list and budget) to [rb@varx1.com](mailto:rb@varx1.com), or call (949) 264-3466. Payment is up front. Randy receives nothing from any builder, and if he has a conflict with a builder you want to invite, he will tell you.
 
 Already have a bid? [The $495 bid review](https://capoolbuilders.com/contract-review/) is the faster option.
+
+## Watch: the details a specification has to get right
+
+[Where the water disappears: how vanishing edge pools really work](https://youtu.be/ZWxVnID8AJ8)[The edge and the hidden tank: building the weir and catch basin](https://youtu.be/icDhrI6BZ18)
+
+Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.

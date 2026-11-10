@@ -52,6 +52,12 @@ A remodel can need a building permit. In California, a permit to build or remode
 
 Replastering and remodeling a pool is pool work. The contractor who contracts with you for it should hold the C-53 Swimming Pool license. Every contractor in this directory does, checked against CSLB records.
 
+## Watch: Randy explains
+
+[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)[Your new plaster is already failing. The jackhammer did it.](https://youtu.be/ExCSAOwOp7I)[The Wheelbarrow Problem: why concrete pool repairs fail](https://youtu.be/pvhh90274EM)
+
+Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
+
 By Randy Beard, licensed California pool contractor (CSLB #871188, C-53 Swimming Pool and C-27 Landscaping). Updated November 9, 2026. Practical guidance, not legal advice.
 
 ## Your next steps
