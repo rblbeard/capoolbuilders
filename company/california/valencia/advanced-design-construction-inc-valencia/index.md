@@ -10,7 +10,7 @@ Source: https://capoolbuilders.com/company/california/valencia/advanced-design-c
 
 Pool contractor in Valencia, Los Angeles County · CSLB license #651082 Active
 
-No flags in the CSLB record as of this date.
+CSLB record: a disciplinary bond was on this license from January 31, 2021 to February 23, 2024 (CSLB case #2003002311). CSLB requires a disciplinary bond when it issues, reinstates or continues a license after disciplinary action involving the license or a person on it. This is a fact from the state record, not a judgment of the builder's current work. Ask the builder about it, and look up the case on the CSLB license page.
 
 ## License record
 
@@ -22,6 +22,8 @@ License expires| October 31, 2027
 Bond| $25,000 contractor's bond, American Contractors Indemnity Company  
 Workers' comp| Workers' Compensation Insurance, Endurance Assurance Corporation, through August 12, 2027  
 Phone on file| (661) 247-9498  
+Online reviews| [Read this business's Google reviews](https://www.google.com/maps/place/?q=place_id:ChIJSVWCjL6rKUQRss5L6RB20ic)  
+Google listing matched to this license by the same phone number; check that it is the same company. We don't rate builders.  
   
 ## People on the license
 
@@ -63,11 +65,12 @@ Before you sign: confirm the license is active on that day, that the business na
 
 ## Your next steps
 
-  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
-  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
-  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
-  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
-  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+  1. **Free download:** [the California Pool Bid Kit (PDF)](https://capoolbuilders.com/free-pool-bid-kit/): every line item a complete bid should list, a 3-builder comparison sheet and 25 questions to ask.
+  2. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  3. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  4. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  5. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  6. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
 
 
 

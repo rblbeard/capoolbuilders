@@ -82,6 +82,8 @@ License #375923 · C-50, C-53 · licensed since 1979 · Corporation
 
 License #1078452 · B, C-8, C-29, C-53 · licensed since 2021 · Corporation
 
+CSLB record: a disciplinary bond is on this license since June 25, 2026 (CSLB case #2024000196). CSLB requires a disciplinary bond when it issues, reinstates or continues a license after disciplinary action involving the license or a person on it. This is a fact from the state record, not a judgment of the builder's current work. Ask the builder about it, and look up the case on the CSLB license page.
+
   * ### [Nixon Pools Inc](https://capoolbuilders.com/company/california/anaheim/nixon-pools-inc-anaheim/)Active
 
 License #1158921 · C-53 · licensed since 2026 · Corporation
@@ -111,6 +113,8 @@ License #736686 · C-53 · licensed since 1997 · Corporation
   * ### [Pool Connection Inc the](https://capoolbuilders.com/company/california/anaheim/pool-connection-inc-the-anaheim/)Active
 
 License #1062685 · B, C-8, C-29, C-53 · licensed since 2020 · Corporation
+
+CSLB record: a disciplinary bond is on this license since May 4, 2026 (CSLB case #2024000196). CSLB requires a disciplinary bond when it issues, reinstates or continues a license after disciplinary action involving the license or a person on it. This is a fact from the state record, not a judgment of the builder's current work. Ask the builder about it, and look up the case on the CSLB license page.
 
   * ### [Pool Effects Inc](https://capoolbuilders.com/company/california/anaheim/pool-effects-inc-anaheim/)Active
 
@@ -147,11 +151,12 @@ More builders nearby: [all of Orange County](https://capoolbuilders.com/director
 
 ## Your next steps
 
-  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
-  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
-  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
-  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
-  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+  1. **Free download:** [the California Pool Bid Kit (PDF)](https://capoolbuilders.com/free-pool-bid-kit/): every line item a complete bid should list, a 3-builder comparison sheet and 25 questions to ask.
+  2. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  3. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  4. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  5. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  6. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
 
 
 

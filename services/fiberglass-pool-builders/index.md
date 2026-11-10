@@ -12,11 +12,12 @@ Source: https://capoolbuilders.com/services/fiberglass-pool-builders/
 
 ## Your next steps
 
-  1. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
-  2. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
-  3. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
-  4. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
-  5. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+  1. **Free download:** [the California Pool Bid Kit (PDF)](https://capoolbuilders.com/free-pool-bid-kit/): every line item a complete bid should list, a 3-builder comparison sheet and 25 questions to ask.
+  2. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
+  3. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
+  4. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
+  5. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  6. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
 
 
 
@@ -195,6 +196,8 @@ License #1076372 · C-10, C-36, C-53 · licensed since 2021 · Corporation
 
 License #295133 · B, C-53, D63 · licensed since 1974 · Corporation
 
+CSLB record: a disciplinary bond is on this license since November 28, 2025 (CSLB case #2020000264). CSLB requires a disciplinary bond when it issues, reinstates or continues a license after disciplinary action involving the license or a person on it. This is a fact from the state record, not a judgment of the builder's current work. Ask the builder about it, and look up the case on the CSLB license page.
+
 
 
 
@@ -257,4 +260,5 @@ License #952455 · C-53 · licensed since 2010 · Sole Owner
 ## About to sign a pool contract?
 
 Have a licensed pool contractor read it first. Randy Beard (CSLB #871188, C-53 Swimming Pool and C-27 Landscaping) reviews pool contracts and plans before you sign: what the contract must contain under California law, what this one leaves out, and what the plans don't show. Flat price: $495 for one bid, with a written summary and a 30-minute call. [How contract review works](https://capoolbuilders.com/contract-review/)   
+Free: [download the California Pool Bid Kit (PDF)](https://capoolbuilders.com/free-pool-bid-kit/).   
 No bids yet? [Have the pool specified first](https://capoolbuilders.com/plan-before-you-bid/) so every builder bids the same job ($1,495). · (949) 264-3466
