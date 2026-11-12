@@ -43,3 +43,9 @@ Also read: [what's not in your pool contract](https://capoolbuilders.com/guides/
 Have a licensed pool contractor read it first. Randy Beard (CSLB #871188, C-53 Swimming Pool and C-27 Landscaping) reviews pool contracts and plans before you sign: what the contract must contain under California law, what this one leaves out, and what the plans don't show. Flat price: $495 for one bid, with a written summary and a 30-minute call. [How contract review works](https://capoolbuilders.com/contract-review/)   
 Free: [download the California Pool Bid Kit (PDF)](https://capoolbuilders.com/free-pool-bid-kit/).   
 No bids yet? [Have the pool specified first](https://capoolbuilders.com/plan-before-you-bid/) so every builder bids the same job ($1,495). · (949) 264-3466
+
+## Watch: what happens when the money gets ahead of the work
+
+[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)
+
+Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
