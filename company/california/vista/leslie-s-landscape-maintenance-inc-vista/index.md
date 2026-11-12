@@ -25,7 +25,7 @@ Phone on file| (760) 685-8368
   
 ## People on the license
 
-  * **Felipe| Galarza Gallegos Felipe Galarza** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Felipe Galarza** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

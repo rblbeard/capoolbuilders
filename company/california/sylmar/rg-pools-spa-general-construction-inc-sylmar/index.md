@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Rigo| Garcia-cruz Rigoberto Garcia** : Qualifier (RMO), CEO/President (B General Building)
+  * **Rigo Garcia** : Qualifier (RMO), CEO/President (B General Building)
   * **Rigoberto JR Garcia** : Qualifier (RMO) (C-53 Swimming Pool)
   * **Anna Lilia Garcia** : Officer
 

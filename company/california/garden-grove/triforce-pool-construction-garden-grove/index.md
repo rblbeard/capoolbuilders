@@ -27,7 +27,7 @@ Phone on file| (714) 895-6500
 
   * **Joseph Dylan Martinez** : Officer
   * **Carlos James Martinez** : Officer
-  * **Teresa Ann| Scott Teresa Ann Martinez** : Chief Executive Officer/President
+  * **Teresa Ann Martinez** : Chief Executive Officer/President
   * **Carlos Aceves Martinez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (D-06 Concrete Related Services)
 
 

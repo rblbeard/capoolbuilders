@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Victor Daniel| Caballero Daniel V Caballero** : Chief Executive Officer/President
+  * **Victor Daniel Caballero** : Chief Executive Officer/President
   * **Joshua Michael Caballero** : Qualifier (RMO) (C-53 Swimming Pool)
   * **Patricia Luz Caballero** : Officer
 

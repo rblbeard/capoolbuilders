@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Reyes Ottoniel| Reyes Ottoniel Angel Angel** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
+  * **Reyes Ottoniel Angel** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
 
 
 

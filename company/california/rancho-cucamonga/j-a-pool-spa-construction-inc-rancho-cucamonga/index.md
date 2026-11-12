@@ -25,7 +25,7 @@ Phone on file| (909) 944-0462
   
 ## People on the license
 
-  * **Barrera Juan| Barrera Juan Dominquez Dominquez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Barrera Juan Dominquez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

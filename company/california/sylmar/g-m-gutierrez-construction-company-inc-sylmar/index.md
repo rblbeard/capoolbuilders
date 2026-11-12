@@ -26,7 +26,7 @@ Phone on file| (818) 535-4561
 ## People on the license
 
   * **Juan Manuel JR Gutierrez** : Officer
-  * **Janet| Ramos Perez Janet Gutierrez** : Officer
+  * **Janet Gutierrez** : Officer
   * **Joana Rosaly Gutierrez** : Officer
   * **Juan Manuel SR Gutierrez** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 

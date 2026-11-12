@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Timothy John| Keck Tim Keck** : Qualifier (RMO) (C-53 Swimming Pool)
+  * **Timothy John Keck** : Qualifier (RMO) (C-53 Swimming Pool)
 
 
 

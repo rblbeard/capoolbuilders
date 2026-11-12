@@ -25,7 +25,7 @@ Phone on file| (760) 799-8674
   
 ## People on the license
 
-  * **Blaise Raymond| Moreno Art Day Moreno** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-06 Concrete Related Services); Sole Owner (B General Building); Sole Owner (D28)
+  * **Blaise Raymond Moreno** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-06 Concrete Related Services); Sole Owner (B General Building); Sole Owner (D28)
 
 
 

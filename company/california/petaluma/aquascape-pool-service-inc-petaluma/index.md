@@ -27,7 +27,7 @@ Phone on file| (707) 762-0300
 
   * **Todd Frances Hendrickson** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Anne Leslie Hendrickson** : Officer
-  * **Douglas Evan| Scheibach Doug Scheibach** : Officer
+  * **Douglas Evan Scheibach** : Officer
   * **Brandon Mitchell Hendrickson** : Officer
 
 

@@ -25,7 +25,7 @@ Phone on file| (925) 939-2905
   
 ## People on the license
 
-  * **Charles Albert| Chuck Archuletta** : Chief Executive Officer/President
+  * **Charles Albert Archuletta** : Chief Executive Officer/President
   * **Reyes Jose Luis Gonzalez** : Qualifier (RMO) (C-27 Landscaping); Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (C-29 Masonry)
 
 

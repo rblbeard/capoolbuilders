@@ -25,7 +25,7 @@ Phone on file| (562) 243-5308
   
 ## People on the license
 
-  * **Gallardo Francisco Javie| Rios Gallardo Javier Francisc Rios** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Gallardo Francisco Javie Rios** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 

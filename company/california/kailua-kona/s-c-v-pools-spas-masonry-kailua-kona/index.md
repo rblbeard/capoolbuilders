@@ -27,7 +27,7 @@ Phone on file| (808) 494-2626
   
 ## People on the license
 
-  * **Stephen Jay| Erenberg Steve Erenberg** : Qualifying Partner (C-53 Swimming Pool); Qualifying Partner (C-29 Masonry)
+  * **Stephen Jay Erenberg** : Qualifying Partner (C-53 Swimming Pool); Qualifying Partner (C-29 Masonry)
   * **Linda Karen Erenberg** : General Partner
 
 

@@ -25,7 +25,7 @@ Phone on file| (760) 272-0778
   
 ## People on the license
 
-  * **Jesus Aristeo Siqu| Navarro Jesus Siqueiros Ar Navarro** : Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jesus Aristeo Siqu Navarro** : Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

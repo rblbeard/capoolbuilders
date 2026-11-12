@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jeffry Michael| Parker Jeff Michael Parker** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jeffry Michael Parker** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

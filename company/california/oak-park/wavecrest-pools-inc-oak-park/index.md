@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Eric Anthony Katz** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Susan Chimene Coll| Katz Chimene Katz** : Officer
+  * **Susan Chimene Coll Katz** : Officer
 
 
 

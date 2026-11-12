@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Jennifer Ann Johnson** : Officer
-  * **Jerrold James| Johnson Jerry James Johnson** : Officer
+  * **Jerrold James Johnson** : Officer
   * **Ryan J Johnson** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 

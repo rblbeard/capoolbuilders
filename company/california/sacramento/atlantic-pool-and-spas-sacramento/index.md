@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Rafael Gonzalez| Gonzalez Rafael Contreras Contreras** : Sole Owner (C-53 Swimming Pool)
+  * **Rafael Gonzalez Contreras** : Sole Owner (C-53 Swimming Pool)
 
 
 

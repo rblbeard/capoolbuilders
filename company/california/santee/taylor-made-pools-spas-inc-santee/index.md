@@ -26,7 +26,7 @@ Phone on file| (619) 449-4452
 ## People on the license
 
   * **Allen Edward Taylor** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Stacie Pihanakalani| Mosely Stacie Michiko Piha Mosley** : Officer
+  * **Stacie Pihanakalani Mosley** : Officer
 
 
 

@@ -25,7 +25,7 @@ Phone on file| (209) 678-1363
   
 ## People on the license
 
-  * **Byron Dillon| Bearden Byron Michael Dill Bearden** : Sole Owner (C-53 Swimming Pool)
+  * **Byron Dillon Bearden** : Sole Owner (C-53 Swimming Pool)
 
 
 

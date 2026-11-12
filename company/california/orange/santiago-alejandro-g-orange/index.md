@@ -25,7 +25,7 @@ Phone on file| (714) 878-8739
   
 ## People on the license
 
-  * **Gonzalez Alejandro Gabriel| Isantiago Jesus Santiago** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool); Sole Owner (C-10 Electrical)
+  * **Gonzalez Alejandro Gabriel Santiago** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool); Sole Owner (C-10 Electrical)
 
 
 

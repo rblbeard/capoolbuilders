@@ -25,7 +25,7 @@ Phone on file| (818) 266-9278
   
 ## People on the license
 
-  * **Miguel| Solis Miguel Angel Solis** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
+  * **Miguel Solis** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
 
 
 

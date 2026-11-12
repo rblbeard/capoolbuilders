@@ -26,7 +26,7 @@ Phone on file| (310) 993-1856
 ## People on the license
 
   * **Anthony Noboru-rodriguez** : Qualifier (RMO) (C-53 Swimming Pool)
-  * **Kiyomi| Brooks Kiyomi Tomita** : Qualifier (RMO), CEO/President (C-27 Landscaping)
+  * **Kiyomi Tomita** : Qualifier (RMO), CEO/President (C-27 Landscaping)
 
 
 

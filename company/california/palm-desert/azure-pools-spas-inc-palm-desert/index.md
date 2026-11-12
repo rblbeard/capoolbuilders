@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Rick Joseph Neff** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Renee Marie| Neff Renee Marie Frye** : Officer
+  * **Renee Marie Frye** : Officer
 
 
 

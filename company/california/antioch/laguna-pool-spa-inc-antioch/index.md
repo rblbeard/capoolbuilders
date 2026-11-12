@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jose Cirilo| Juarez Jose Cirilo Juarez-delgado** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jose Cirilo Juarez-delgado** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Juan Francisco Juarez** : Officer
   * **Alejandra Fernandez Juarez** : Officer
 

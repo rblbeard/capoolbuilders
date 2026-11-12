@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Sabrina Abezis Almany** : Qualifier (RMO) (C-53 Swimming Pool)
-  * **Joseph| Almany Yosef Almany** : Chief Executive Officer/President
+  * **Joseph Almany** : Chief Executive Officer/President
 
 
 

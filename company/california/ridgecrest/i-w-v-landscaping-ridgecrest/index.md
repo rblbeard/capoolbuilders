@@ -25,7 +25,7 @@ Phone on file| (760) 793-7314
   
 ## People on the license
 
-  * **Cesar Alejandro| Ponce Mendoza Cesar Alejandro Ponce** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
+  * **Cesar Alejandro Ponce** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
 
 
 

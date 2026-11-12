@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Zanne Cerini** : Officer
-  * **Jeffery Alan| Cerini Jeff Alan Cerini** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (D21)
+  * **Jeffery Alan Cerini** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (D21)
 
 
 

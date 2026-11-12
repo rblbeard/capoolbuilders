@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Ron| Pomerantz Shorone Pomerantz** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering)
+  * **Ron Pomerantz** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering)
 
 
 

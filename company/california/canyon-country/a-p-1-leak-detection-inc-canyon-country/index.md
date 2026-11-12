@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Joe Luis| Aguilar-saldana Jose L Aguilar** : Qualifier (RMO), CEO/President (C-36 Plumbing); Qualifier (RMO), CEO/President (D64); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Joe Luis Aguilar** : Qualifier (RMO), CEO/President (C-36 Plumbing); Qualifier (RMO), CEO/President (D64); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

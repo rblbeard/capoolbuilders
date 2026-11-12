@@ -25,7 +25,7 @@ Phone on file| (760) 290-3415
   
 ## People on the license
 
-  * **Matthew Steven| Vedenoff Matt Steven Vedenoff** : Officer
+  * **Matthew Steven Vedenoff** : Officer
   * **Michael O 'shea West**: Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 

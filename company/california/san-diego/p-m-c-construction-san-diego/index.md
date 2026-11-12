@@ -31,7 +31,7 @@ Phone on file| (176) 020-1646
   
 ## People on the license
 
-  * **Peter Andrew| MC Namara Pete Andrew Mcnamara** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool); Sole Owner (C-21 Demolition); Sole Owner (C-36 Plumbing)
+  * **Peter Andrew Mcnamara** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool); Sole Owner (C-21 Demolition); Sole Owner (C-36 Plumbing)
 
 
 

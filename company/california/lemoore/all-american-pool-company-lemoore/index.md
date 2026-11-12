@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Charles Lee Williams** : Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Lori Ann| Anderson Lori Ann Cossey** : Officer
+  * **Lori Ann Cossey** : Officer
 
 
 

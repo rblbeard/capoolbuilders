@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Mo| Rahman Mohammed Solomon** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Mo Solomon** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Brian Michael Godley** : Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (B General Building)
 
 

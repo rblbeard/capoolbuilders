@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Jeffery John Kearns** : Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Patricia Ann| Kearns Patty Ann Head** : Officer
+  * **Patricia Ann Head** : Officer
   * **Michael James Kearns** : Officer
 
 

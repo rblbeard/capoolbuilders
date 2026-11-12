@@ -29,7 +29,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Bradley Gordon| MC Clelland Brad Mcclelland** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Bradley Gordon Mcclelland** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jose Inocente| Marquez-hernandez Jose Inocente Marquez** : Qualifier (RMM) (C-53 Swimming Pool)
+  * **Jose Inocente Marquez** : Qualifier (RMM) (C-53 Swimming Pool)
   * **Anguiano Mayra Araceli Berni** : LLC Member
 
 

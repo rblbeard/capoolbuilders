@@ -26,7 +26,7 @@ Phone on file| (714) 777-4103
 ## People on the license
 
   * **Gregory Michael Beebout** : Qualifier (RMO), CEO/President (B General Building)
-  * **Gerald Duane| Aguiar Jerry Duane Aguiar** : Qualifier (RME) (A General Engineering); Qualifier (RME) (C-27 Landscaping); Qualifier (RME) (C-53 Swimming Pool)
+  * **Gerald Duane Aguiar** : Qualifier (RME) (A General Engineering); Qualifier (RME) (C-27 Landscaping); Qualifier (RME) (C-53 Swimming Pool)
 
 
 

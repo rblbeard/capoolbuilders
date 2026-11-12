@@ -27,7 +27,7 @@ Phone on file| (818) 745-7814
   
 ## People on the license
 
-  * **Will| Wilman Vilches** : Sole Owner (C-27 Landscaping); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Will Vilches** : Sole Owner (C-27 Landscaping); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 

@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Thomas Michael| Stout Tom Michael Stout** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Thomas Michael Stout** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

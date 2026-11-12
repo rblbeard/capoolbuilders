@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
 
   * **Alejandra Garcia** : Officer
   * **Rosemary Ferdig** : Chief Executive Officer/President
-  * **David R| Walter David Ray Walter** : Qualifier (RME) (C-27 Landscaping); Qualifier (RME) (C-12 Earthwork and Paving); Qualifier (RME) (C-53 Swimming Pool)
+  * **David R Walter** : Qualifier (RME) (C-27 Landscaping); Qualifier (RME) (C-12 Earthwork and Paving); Qualifier (RME) (C-53 Swimming Pool)
 
 
 

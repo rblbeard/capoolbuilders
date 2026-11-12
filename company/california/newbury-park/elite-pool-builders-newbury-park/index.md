@@ -25,7 +25,7 @@ Phone on file| (805) 492-0804
   
 ## People on the license
 
-  * **Henry Luis| Vargas Henry Louis Vargas** : Qualifier (RMO), CEO/President (C-12 Earthwork and Paving); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Henry Luis Vargas** : Qualifier (RMO), CEO/President (C-12 Earthwork and Paving); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

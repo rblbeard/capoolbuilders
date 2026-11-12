@@ -29,7 +29,7 @@ Phone on file| (818) 916-3187
   
 ## People on the license
 
-  * **Luis Rick| Herrera Luis Ricardo Herrera** : Sole Owner (C-53 Swimming Pool)
+  * **Luis Rick Herrera** : Sole Owner (C-53 Swimming Pool)
 
 
 

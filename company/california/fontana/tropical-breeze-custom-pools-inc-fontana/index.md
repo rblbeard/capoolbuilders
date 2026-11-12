@@ -25,8 +25,8 @@ Phone on file| (909) 782-0666
   
 ## People on the license
 
-  * **Jerome Lee JR| Jeeves Jerry Lee Jeeves** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-8)
-  * **Jerome Lee| Jeeves Jerry Lee Jeeves** : Officer
+  * **Jerome Lee JR Jeeves** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-8)
+  * **Jerome Lee Jeeves** : Officer
 
 
 

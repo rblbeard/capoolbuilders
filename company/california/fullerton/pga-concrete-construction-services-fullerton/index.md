@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Grahame Stanford Taylor** : Chief Executive Officer/President
-  * **Annette| Berg Taylor** : Qualifier (RMO) (B General Building); Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (C-8)
+  * **Annette Taylor** : Qualifier (RMO) (B General Building); Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (C-8)
 
 
 

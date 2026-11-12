@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Gary Dorian Toland** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Karan Laurine| Toland Karan Stokes Toland** : Officer
+  * **Karan Laurine Toland** : Officer
   * **Jacob Burton Toland** : Officer
 
 

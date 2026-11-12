@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jesus Adolpho| Escalera Jesse Adolpho Escalera** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (B General Building)
+  * **Jesus Adolpho Escalera** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (B General Building)
 
 
 

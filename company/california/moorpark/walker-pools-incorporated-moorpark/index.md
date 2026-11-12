@@ -25,7 +25,7 @@ Phone on file| (805) 501-4587
   
 ## People on the license
 
-  * **Bonnie Lee| Walker Lavonne Lee Walker** : Officer
+  * **Bonnie Lee Walker** : Officer
   * **Steven Joseph Walker** : Officer
   * **Chad Joseph Walker** : Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-29 Masonry); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 

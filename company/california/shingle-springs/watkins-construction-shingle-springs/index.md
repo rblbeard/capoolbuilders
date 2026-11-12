@@ -25,7 +25,7 @@ Phone on file| (916) 719-6057
   
 ## People on the license
 
-  * **Rick Alan| Watkins Eric Alan Watkins** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Rick Alan Watkins** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

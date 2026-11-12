@@ -29,7 +29,7 @@ Phone on file| (818) 335-6179
   
 ## People on the license
 
-  * **Gildardo Becerrbecerra| Gonzalez Gildardo Becerra Gonzalez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Gildardo Becerrbecerra Gonzalez** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

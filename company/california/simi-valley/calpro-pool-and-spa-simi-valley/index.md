@@ -27,7 +27,7 @@ Phone on file| (805) 857-9935
   
 ## People on the license
 
-  * **Jeffrey Docimerak| Rohrer Jeff Rohrer** : Sole Owner (C-53 Swimming Pool)
+  * **Jeffrey Docimerak Rohrer** : Sole Owner (C-53 Swimming Pool)
 
 
 

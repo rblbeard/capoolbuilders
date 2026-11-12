@@ -25,7 +25,7 @@ Phone on file| (714) 243-5100
   
 ## People on the license
 
-  * **Eloy Odin| Garcia Eloy Figueroa** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Eloy Odin Figueroa** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

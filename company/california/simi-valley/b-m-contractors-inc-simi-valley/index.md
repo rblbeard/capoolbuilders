@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **David Craig| Moore Dave Craig Moore** : Chief Executive Officer/President
+  * **David Craig Moore** : Chief Executive Officer/President
   * **Randall Bouha Bilsland** : Qualifier (RMO) (A General Engineering); Qualifier (RMO) (C-27 Landscaping); Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (C-8)
 
 

@@ -25,7 +25,7 @@ Phone on file| (408) 772-8337
   
 ## People on the license
 
-  * **Jeffrey David| Veliquette Jeff David Veliquette** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jeffrey David Veliquette** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

@@ -29,7 +29,7 @@ Phone on file| (951) 703-5097
   
 ## People on the license
 
-  * **Avelar Jose Luis| Avelar Jose Luis Hinojosa** : Sole Owner (C-29 Masonry); Sole Owner (C-53 Swimming Pool)
+  * **Avelar Jose Luis Hinojosa** : Sole Owner (C-29 Masonry); Sole Owner (C-53 Swimming Pool)
 
 
 

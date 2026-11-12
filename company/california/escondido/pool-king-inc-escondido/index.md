@@ -33,7 +33,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Mitchell Lynn| Tybroski Mitch Lynn Tybroski** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Mitchell Lynn Tybroski** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

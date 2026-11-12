@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Matthew Leigh| Harriman Matthew Leigh Faris** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-35 Pool and Spa Maintenance)
+  * **Matthew Leigh Faris** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-35 Pool and Spa Maintenance)
 
 
 

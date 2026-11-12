@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Cindy Ann| Condreay Cindy Ann Swikard** : Chief Executive Officer/President
+  * **Cindy Ann Swikard** : Chief Executive Officer/President
   * **Larry Arthur Swikard** : Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-12 Earthwork and Paving); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-33 Painting); Qualifier (RMO), CEO/President (B General Building)
 
 

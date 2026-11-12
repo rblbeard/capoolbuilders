@@ -25,7 +25,7 @@ Phone on file| (951) 694-1199
   
 ## People on the license
 
-  * **Raymond Bernard Iii| Lyons Raymond Bernard Lyons** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (B General Building)
+  * **Raymond Bernard III Lyons** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (B General Building)
   * **Jennifer E Lyons** : Officer
 
 

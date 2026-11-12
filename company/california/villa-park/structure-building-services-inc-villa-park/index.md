@@ -25,7 +25,7 @@ Phone on file| (714) 624-0594
   
 ## People on the license
 
-  * **Robert Dawn| Wiens Robert D Wiens** : Qualifier (RMO), CEO/President (B General Building)
+  * **Robert Dawn Wiens** : Qualifier (RMO), CEO/President (B General Building)
   * **Haroldene Verna Wiens** : Officer
   * **Daniel Dawn Wiens** : Qualifier (RMO) (C-53 Swimming Pool)
 

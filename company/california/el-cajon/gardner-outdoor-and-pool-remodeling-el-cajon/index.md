@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Johsua John Owsley** : Officer
-  * **Kenna Scott Kerens| Mckenna Scott MC** : Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Kenna Scott Kerens MC** : Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

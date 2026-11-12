@@ -25,7 +25,7 @@ Phone on file| (949) 375-8618
   
 ## People on the license
 
-  * **Roman| Painter Roman James James** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Roman James** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

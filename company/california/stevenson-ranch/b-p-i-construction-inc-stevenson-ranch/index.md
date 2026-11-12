@@ -25,7 +25,7 @@ Phone on file| (818) 277-3460
   
 ## People on the license
 
-  * **Christopher Michael| Bennett Chris Michael Bennett** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-36 Plumbing)
+  * **Christopher Michael Bennett** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-36 Plumbing)
   * **Tiffany Dawn Bennett** : Officer
 
 

@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Lellan Scott Dennis MC** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Lellan Kimberly Susanne| Maidrand Kimberly Susanne MC** : Officer
+  * **Lellan Kimberly Susanne MC** : Officer
 
 
 

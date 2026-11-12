@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Alvarez Ernesto| Moncada Ernesto Alvarez Moncada** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (B General Building)
+  * **Alvarez Ernesto Moncada** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (B General Building)
   * **Beatriz Moncada** : Officer
 
 

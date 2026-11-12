@@ -25,7 +25,7 @@ Phone on file| (949) 589-2676
   
 ## People on the license
 
-  * **Gerard Francis JR| Hierro Jerry Hierro** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Gerard Francis JR Hierro** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Carri Lee Hierro** : Officer
 
 

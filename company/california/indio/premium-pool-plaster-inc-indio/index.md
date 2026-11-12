@@ -25,7 +25,7 @@ Phone on file| (760) 861-7545
   
 ## People on the license
 
-  * **Jose Efrain| Chan Pat Jose Efrain Chan** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jose Efrain Chan** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Lorena Chan** : Officer
 
 

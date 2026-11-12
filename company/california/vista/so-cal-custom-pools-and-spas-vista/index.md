@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jimmy Jon| Jackson Jimi Jon Jackson** : Sole Owner (C-53 Swimming Pool)
+  * **Jimmy Jon Jackson** : Sole Owner (C-53 Swimming Pool)
 
 
 

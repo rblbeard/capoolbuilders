@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Davina Marie Ortiz** : Officer
-  * **Jose Encarnacion| Ramos Jose Encarnacion Ramos-alcala** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-8)
+  * **Jose Encarnacion Ramos-alcala** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-8)
 
 
 

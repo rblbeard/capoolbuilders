@@ -27,7 +27,7 @@ Phone on file| (909) 717-1072
   
 ## People on the license
 
-  * **Andy| Morales Andrew Morales** : Sole Owner (C-53 Swimming Pool)
+  * **Andy Morales** : Sole Owner (C-53 Swimming Pool)
 
 
 

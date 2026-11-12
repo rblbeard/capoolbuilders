@@ -25,7 +25,7 @@ Phone on file| (650) 333-6588
   
 ## People on the license
 
-  * **Farzad Steve| Askari Steve F Askari** : Qualifier (RMO) (B General Building); Qualifier (RMO) (C-53 Swimming Pool)
+  * **Farzad Steve Askari** : Qualifier (RMO) (B General Building); Qualifier (RMO) (C-53 Swimming Pool)
 
 
 

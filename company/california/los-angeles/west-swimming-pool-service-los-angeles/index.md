@@ -25,7 +25,7 @@ Phone on file| (213) 321-0424
   
 ## People on the license
 
-  * **John Clemens| Kim Joon Ung Kim** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
+  * **John Clemens Kim** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
 
 
 

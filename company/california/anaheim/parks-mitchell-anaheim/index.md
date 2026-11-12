@@ -27,7 +27,7 @@ Phone on file| (949) 228-1953
   
 ## People on the license
 
-  * **Claude Mitchell| Parks Mitchell Claude Parks** : Sole Owner (C-53 Swimming Pool)
+  * **Claude Mitchell Parks** : Sole Owner (C-53 Swimming Pool)
 
 
 

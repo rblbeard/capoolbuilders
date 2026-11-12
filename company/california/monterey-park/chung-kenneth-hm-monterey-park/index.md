@@ -25,7 +25,7 @@ Phone on file| (626) 688-8739
   
 ## People on the license
 
-  * **Kenneth| Chung Kenneth HM Chung** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Kenneth Chung** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

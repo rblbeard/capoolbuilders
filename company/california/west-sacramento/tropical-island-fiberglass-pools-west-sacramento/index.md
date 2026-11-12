@@ -25,7 +25,7 @@ Phone on file| (916) 207-2402
   
 ## People on the license
 
-  * **Petru Adrian| Josan Adria Peter Josan** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-35 Pool and Spa Maintenance)
+  * **Petru Adrian Josan** : Sole Owner (C-53 Swimming Pool); Sole Owner (D-35 Pool and Spa Maintenance)
 
 
 

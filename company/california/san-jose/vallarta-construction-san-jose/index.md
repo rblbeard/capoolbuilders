@@ -25,7 +25,7 @@ Phone on file| (408) 529-2434
   
 ## People on the license
 
-  * **Ignacio| Becerra Santiago Ignacio Becerra** : Sole Owner (C-36 Plumbing); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Ignacio Becerra** : Sole Owner (C-36 Plumbing); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 

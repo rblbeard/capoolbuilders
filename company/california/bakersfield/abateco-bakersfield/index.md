@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Joseph Daniel Blanton** : Qualifier (RMO) (B General Building); Qualifier (RMO) (Asbestos Certification); Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (C-22 Asbestos Abatement)
-  * **Mary Elaine| Ellington Mary Elaine Blanton** : Chief Executive Officer/President
+  * **Mary Elaine Blanton** : Chief Executive Officer/President
 
 
 

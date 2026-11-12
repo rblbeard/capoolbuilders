@@ -25,7 +25,7 @@ Phone on file| (818) 395-4862
   
 ## People on the license
 
-  * **Villeda Ruben Eduardo| Rodriguez-villeda Ruben Eduardo Rodriguez** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
+  * **Villeda Ruben Eduardo Rodriguez** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
 
 
 

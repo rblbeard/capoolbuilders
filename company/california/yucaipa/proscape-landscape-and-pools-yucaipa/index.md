@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Billie Wade| Paugh William Paugh** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
+  * **Billie Wade Paugh** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
 
 
 

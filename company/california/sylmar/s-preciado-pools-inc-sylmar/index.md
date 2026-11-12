@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Jose Santana| Preciado Jose Rodriguez Preciado** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jose Santana Preciado** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

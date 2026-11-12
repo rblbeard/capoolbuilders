@@ -26,7 +26,7 @@ Phone on file| (626) 926-9984
 ## People on the license
 
   * **Alan Ray Fluhrer** : Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Deborah Marie| Santi Deborah Marie Santi-fluhrer** : Officer
+  * **Deborah Marie Santi-fluhrer** : Officer
 
 
 

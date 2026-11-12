@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Martinez Jose Juan| Martinez Jose Juan Diaz Diaz** : Sole Owner (C-12 Earthwork and Paving); Sole Owner (C-8); Sole Owner (A General Engineering); Sole Owner (Hazardous Substance Removal); Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building); Sole Owner (C-21 Demolition); Sole Owner (C-31 Traffic Control)
+  * **Martinez Jose Juan Diaz** : Sole Owner (C-12 Earthwork and Paving); Sole Owner (C-8); Sole Owner (A General Engineering); Sole Owner (Hazardous Substance Removal); Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building); Sole Owner (C-21 Demolition); Sole Owner (C-31 Traffic Control)
 
 
 

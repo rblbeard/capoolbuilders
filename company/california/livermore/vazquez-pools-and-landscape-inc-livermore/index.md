@@ -25,7 +25,7 @@ Phone on file| (510) 913-4376
   
 ## People on the license
 
-  * **Moreno Ramon| Vazquez Ramon Moreno Vazquez** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Moreno Ramon Vazquez** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Ramon Vazquez** : Officer
   * **Ken Vazquez** : Officer
 

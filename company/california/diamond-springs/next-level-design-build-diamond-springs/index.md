@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Michael Charles Newsom** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-46 Solar); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-17 Glazing); Qualifier (RMO), CEO/President (C-20 HVAC); Qualifier (RMO), CEO/President (C-27 Landscaping)
-  * **Keisha Lin| Kress Keisha Lin Newsom** : Officer
+  * **Keisha Lin Newsom** : Officer
 
 
 

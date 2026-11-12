@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
 
   * **Froylan Dominguez** : Officer
   * **Mariana R Ramirez De Dominguez** : Officer
-  * **Jose Dominguez| Dominguez Jose Barrera Barrera** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-29 Masonry); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jose Dominguez Barrera** : Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (C-29 Masonry); Qualifier (RMO), CEO/President (C-8); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

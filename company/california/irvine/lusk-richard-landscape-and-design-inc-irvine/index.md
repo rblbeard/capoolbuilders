@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Anthony Junior| Marino Tony Junior Marino** : Qualifier (RME) (C-53 Swimming Pool)
+  * **Anthony Junior Marino** : Qualifier (RME) (C-53 Swimming Pool)
   * **Richard Patrick Lusk** : Chief Executive Officer/President
   * **Suyen Lusk** : Officer
   * **Ryan Paul Rush** : Qualifier (RME) (C-27 Landscaping)

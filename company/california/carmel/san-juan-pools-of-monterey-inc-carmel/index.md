@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Pier Domenico Garneri** : Qualifier (RMO) (A General Engineering); Qualifier (RMO) (B General Building); Qualifier (RMO) (C-53 Swimming Pool)
-  * **Domenico Alfred Felic| Garneri Domenico Felice Alfre Garneri** : Chief Executive Officer/President
+  * **Domenico Alfred Felic Garneri** : Chief Executive Officer/President
 
 
 

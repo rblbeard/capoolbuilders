@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Michael Vincent| Jaeger Mike Vincent Jaeger** : Sole Owner (C-53 Swimming Pool); Sole Owner (C-27 Landscaping)
+  * **Michael Vincent Jaeger** : Sole Owner (C-53 Swimming Pool); Sole Owner (C-27 Landscaping)
 
 
 

@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **William Joseph| Roberson Joe Roberson** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **William Joseph Roberson** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **William Andrew| Anderson Drew Anderson** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **William Andrew Anderson** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Paulette Marie| Tavenner Paulette Marie Allen** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Paulette Marie Allen** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

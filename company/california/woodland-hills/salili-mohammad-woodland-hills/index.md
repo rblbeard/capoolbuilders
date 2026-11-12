@@ -25,7 +25,7 @@ Phone on file| (818) 300-6605
   
 ## People on the license
 
-  * **Seyed Mohammad| Salili Seyed Mohammad Salili** : Sole Owner (C-36 Plumbing); Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Seyed Mohammad Salili** : Sole Owner (C-36 Plumbing); Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

@@ -31,7 +31,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Anthony Charles| Adams Tony Charles Adams** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Anthony Charles Adams** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

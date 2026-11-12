@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Omar Isai| Becerra Alcaraz Omar Isai Becerra** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Omar Isai Becerra** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Yaneli Becerra** : Officer
 
 

@@ -25,7 +25,7 @@ Phone on file| (714) 448-3657
   
 ## People on the license
 
-  * **Javan Scott| Chouler Jay Chouler** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Javan Scott Chouler** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

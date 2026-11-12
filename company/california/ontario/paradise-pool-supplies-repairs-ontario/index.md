@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Justin Dale Zuidema** : Qualifier (RMO) (D-35 Pool and Spa Maintenance); Qualifier (RMO) (C-53 Swimming Pool)
-  * **Norman Alan JR| Zuidema Norm Alan JR Zuidema** : Chief Executive Officer/President
+  * **Norman Alan JR Zuidema** : Chief Executive Officer/President
 
 
 

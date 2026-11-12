@@ -25,7 +25,7 @@ Phone on file| (760) 736-0067
   
 ## People on the license
 
-  * **William Lee| Kleiser Bill Lee Kleiser** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **William Lee Kleiser** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

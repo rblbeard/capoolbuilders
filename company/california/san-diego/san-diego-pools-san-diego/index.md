@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
 
   * **Katherine Hyde King-acosta** : Officer
   * **Joshua James Lawson** : Chief Executive Officer/President
-  * **Kenneth William Iii| King Kenny King** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Kenneth William III King** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

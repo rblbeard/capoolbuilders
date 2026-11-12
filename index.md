@@ -10,6 +10,12 @@ Every licensed pool contractor in California, from the state's own records, expl
 
 Search
 
+Photo: a pool built by Randy Beard.
+
+[**Have a bid in hand?** Randy reviews the contract, plans and specifications before you sign. Flat $495, with a written summary and a 30-minute call.  
+_How the bid review works →_](https://capoolbuilders.com/contract-review/)[**Free California Pool Bid Kit** A 7-page PDF: a line-item sheet to compare three builders, 25 questions to ask, and what a California pool contract must contain.  
+_Get the free kit →_](https://capoolbuilders.com/free-pool-bid-kit/)
+
 **2,897** licensed pool contractors
 
 **125** suspended right now

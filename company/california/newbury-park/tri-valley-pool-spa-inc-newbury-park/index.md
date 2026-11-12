@@ -25,7 +25,7 @@ Phone on file| (805) 432-4731
   
 ## People on the license
 
-  * **Craig Alan| Kircher Craig Allan Kircher** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (B General Building)
+  * **Craig Alan Kircher** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (B General Building)
 
 
 

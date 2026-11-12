@@ -25,7 +25,7 @@ Phone on file| (760) 834-5870
   
 ## People on the license
 
-  * **Alejandro Ortiz| Torres Alex Torres** : Sole Owner (A General Engineering); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool); Sole Owner (C-20 HVAC)
+  * **Alejandro Ortiz Torres** : Sole Owner (A General Engineering); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool); Sole Owner (C-20 HVAC)
 
 
 

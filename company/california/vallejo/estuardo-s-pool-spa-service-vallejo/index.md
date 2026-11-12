@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Morales German Estuardo| Moran-morales German Estuardo Moran** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
+  * **Morales German Estuardo Moran** : Sole Owner (D-35 Pool and Spa Maintenance); Sole Owner (C-53 Swimming Pool)
 
 
 

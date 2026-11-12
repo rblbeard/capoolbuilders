@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Frances Merrion JR| Berry Frank Merrion JR Berry** : Qualifier (RMM) (B General Building); Qualifier (RMM) (C-53 Swimming Pool)
+  * **Frances Merrion JR Berry** : Qualifier (RMM) (B General Building); Qualifier (RMM) (C-53 Swimming Pool)
 
 
 

@@ -26,7 +26,7 @@ Phone on file| (619) 850-9467
 ## People on the license
 
   * **Scott Arthur Winsor** : Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (D-35 Pool and Spa Maintenance)
-  * **Kari Ann| Jenkins Winsor** : Chief Executive Officer/President
+  * **Kari Ann Winsor** : Chief Executive Officer/President
 
 
 

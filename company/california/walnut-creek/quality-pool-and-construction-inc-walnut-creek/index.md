@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Nenad| Nino Lukic** : Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (B General Building)
+  * **Nenad Lukic** : Qualifier (RMO) (C-53 Swimming Pool); Qualifier (RMO) (B General Building)
 
 
 

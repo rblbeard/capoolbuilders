@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Melanie Ann| Lindquist Malenie Ann Sayne** : Officer
+  * **Melanie Ann Sayne** : Officer
   * **Louie Dino Croce** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 

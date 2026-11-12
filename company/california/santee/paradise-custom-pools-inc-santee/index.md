@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Dominic Salvatore Giordano** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (D-35 Pool and Spa Maintenance)
-  * **Josephine Angela| Jojo Giordano** : Officer
+  * **Josephine Angela Giordano** : Officer
 
 
 

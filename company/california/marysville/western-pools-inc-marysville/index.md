@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Tyler Ross| Christopherson Tyler Christopherson** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Tyler Ross Christopherson** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Mallory Nadene Christopherson** : Officer
 
 

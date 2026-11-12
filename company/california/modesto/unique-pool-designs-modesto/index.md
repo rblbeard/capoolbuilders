@@ -27,7 +27,7 @@ Phone on file| (209) 450-0672
   
 ## People on the license
 
-  * **Guadalupe Carrillo| Lupe Perez** : Sole Owner (C-53 Swimming Pool)
+  * **Guadalupe Carrillo Perez** : Sole Owner (C-53 Swimming Pool)
 
 
 

@@ -25,7 +25,7 @@ Phone on file| (909) 896-6346
   
 ## People on the license
 
-  * **Jose Antonio Rami| Vergara Jose Ramirez Anto Vergara** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Jose Antonio Rami Vergara** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Maria Elizabeth Ramirez** : Officer
 
 

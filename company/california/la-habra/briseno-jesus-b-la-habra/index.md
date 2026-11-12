@@ -25,7 +25,7 @@ Phone on file| (714) 720-7268
   
 ## People on the license
 
-  * **Briseno Jesus| Briseno Jesus Barajas** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
+  * **Briseno Jesus Barajas** : Sole Owner (C-27 Landscaping); Sole Owner (C-53 Swimming Pool)
 
 
 

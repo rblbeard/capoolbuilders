@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Tal| Shaer Talia Shaer** : Officer
+  * **Tal Shaer** : Officer
   * **Ofer Zvi Shaer** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Avishy Shaer** : Officer
 

@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Jerry Edward| Hall Jerry Edward Sleeper** : Qualifier (RMO) (C-17 Glazing)
+  * **Jerry Edward Sleeper** : Qualifier (RMO) (C-17 Glazing)
   * **Ryan Adrian Coffman** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-33 Painting); Qualifier (RMO), CEO/President (C-39 Roofing)
   * **Kelly Carter Herbert** : Qualifier (RMO) (C-8); Qualifier (RMO) (C-53 Swimming Pool)
 

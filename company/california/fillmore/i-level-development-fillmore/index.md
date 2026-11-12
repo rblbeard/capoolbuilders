@@ -27,7 +27,7 @@ Phone on file| (661) 240-9020
   
 ## People on the license
 
-  * **Kayvon Allen| Baktiar Fred Baktiar** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Kayvon Allen Baktiar** : Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 

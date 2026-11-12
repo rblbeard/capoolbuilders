@@ -25,7 +25,7 @@ Phone on file| (310) 770-7428
   
 ## People on the license
 
-  * **Kim Morere| Tipre Kim Tipre** : Officer
+  * **Kim Morere Tipre** : Officer
   * **John Vitela** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 

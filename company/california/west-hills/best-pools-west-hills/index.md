@@ -27,7 +27,7 @@ Phone on file| (818) 887-5009
   
 ## People on the license
 
-  * **Jeffrey William| Steinbach Jeff William Steinbach** : Qualifying Partner (C-53 Swimming Pool)
+  * **Jeffrey William Steinbach** : Qualifying Partner (C-53 Swimming Pool)
   * **Kimberly Lyn Steinbach** : General Partner
 
 

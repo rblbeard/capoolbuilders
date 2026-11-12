@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Suzanne Lee Holmes** : Officer
-  * **Charles David| Holmes Chuck Holmes** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (A General Engineering)
+  * **Charles David Holmes** : Qualifier (RMO), CEO/President (C-53 Swimming Pool); Qualifier (RMO), CEO/President (C-27 Landscaping); Qualifier (RMO), CEO/President (A General Engineering)
 
 
 

@@ -26,7 +26,7 @@ Phone on file| (310) 890-7312
 ## People on the license
 
   * **Mor Reuven Yoffe** : Officer
-  * **Tomer Haim| Yoffe Tomer Haim Yoffe** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Tomer Haim Yoffe** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

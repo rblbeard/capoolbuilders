@@ -25,7 +25,7 @@ Phone on file| (760) 902-3288
   
 ## People on the license
 
-  * **Jeff Robert| Judd Jeffrey Robert Judd** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Jeff Robert Judd** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

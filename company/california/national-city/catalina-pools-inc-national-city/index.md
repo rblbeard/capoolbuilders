@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Joseph Warren Marsh** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Wendy Ann| Hoffmeyer Marsh** : Officer
+  * **Wendy Ann Marsh** : Officer
 
 
 

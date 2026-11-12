@@ -25,7 +25,7 @@ Phone on file| (818) 915-1919
   
 ## People on the license
 
-  * **Tomer Haim| Yoffe Tomer Haim Yoffe** : Qualifier (RMO) (B General Building)
+  * **Tomer Haim Yoffe** : Qualifier (RMO) (B General Building)
   * **Eyal Polad** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 

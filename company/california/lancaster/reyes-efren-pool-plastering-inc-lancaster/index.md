@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Efren Sanchez| Reyes Efrain Sanchez Reyes** : Qualifier (RMO), CEO/President (C-35 Lathing and Plastering); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Efren Sanchez Reyes** : Qualifier (RMO), CEO/President (C-35 Lathing and Plastering); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
   * **Alfredo Reyes** : Officer
   * **Sitlaly Reyes** : Officer
 

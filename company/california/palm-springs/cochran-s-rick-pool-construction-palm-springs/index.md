@@ -29,7 +29,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **John Richard| Cochran Rick Cochran** : Sole Owner (C-53 Swimming Pool)
+  * **John Richard Cochran** : Sole Owner (C-53 Swimming Pool)
 
 
 

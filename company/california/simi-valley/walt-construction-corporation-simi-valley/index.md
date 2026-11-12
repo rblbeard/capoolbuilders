@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Walter J| Perwz Waldo Jose Perez** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (Hazardous Substance Removal); Qualifier (RMO), CEO/President (C-36 Plumbing); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-20 HVAC); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Walter J Perez** : Qualifier (RMO), CEO/President (B General Building); Qualifier (RMO), CEO/President (A General Engineering); Qualifier (RMO), CEO/President (Hazardous Substance Removal); Qualifier (RMO), CEO/President (C-36 Plumbing); Qualifier (RMO), CEO/President (C-10 Electrical); Qualifier (RMO), CEO/President (C-20 HVAC); Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

@@ -27,7 +27,7 @@ Phone on file| (626) 240-7076
   
 ## People on the license
 
-  * **Marvin Vinicio| Flores Velasquez Marvin Vinicio Flores** : Sole Owner (C-53 Swimming Pool)
+  * **Marvin Vinicio Flores** : Sole Owner (C-53 Swimming Pool)
 
 
 

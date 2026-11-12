@@ -25,7 +25,7 @@ Phone on file| (714) 864-7696
   
 ## People on the license
 
-  * **Sharon Zuniga| Zuniga Sharon Sanchez Gonzalez** : Sole Owner (C-27 Landscaping); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Sharon Zuniga Gonzalez** : Sole Owner (C-27 Landscaping); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 

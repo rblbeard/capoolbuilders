@@ -28,7 +28,7 @@ Google listing matched to this license by the same phone number; check that it i
 ## People on the license
 
   * **Gary David Gattuso** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
-  * **Whitney Lori| Lekousis Whitney Lori Gattuso** : Officer
+  * **Whitney Lori Gattuso** : Officer
 
 
 

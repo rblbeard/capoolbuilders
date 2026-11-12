@@ -27,7 +27,7 @@ Google listing matched to this license by the same phone number; check that it i
   
 ## People on the license
 
-  * **Alex| Garrido Alejandro Garrido** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
+  * **Alex Garrido** : Sole Owner (C-53 Swimming Pool); Sole Owner (B General Building)
 
 
 

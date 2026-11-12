@@ -27,7 +27,7 @@ Google listing matched to this license by the same name and city; check that it 
   
 ## People on the license
 
-  * **Del Rio Ladislao| Moreira Ladislao Moreira** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
+  * **Del Rio Ladislao Moreira** : Qualifier (RMO), CEO/President (C-53 Swimming Pool)
 
 
 

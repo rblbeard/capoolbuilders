@@ -25,7 +25,7 @@ Phone on file| (909) 821-2840
   
 ## People on the license
 
-  * **Gerald| D 'arcangelo Jerry D'arcangelo**: Sole Owner (A General Engineering); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
+  * **Gerald D 'arcangelo**: Sole Owner (A General Engineering); Sole Owner (B General Building); Sole Owner (C-53 Swimming Pool)
 
 
 
