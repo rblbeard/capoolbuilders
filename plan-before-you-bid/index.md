@@ -42,6 +42,6 @@ Already have a bid? [The $495 bid review](https://capoolbuilders.com/contract-re
 
 ## Watch: the details a specification has to get right
 
-[Where the water disappears: how vanishing edge pools really work](https://youtu.be/ZWxVnID8AJ8)[The edge and the hidden tank: building the weir and catch basin](https://youtu.be/icDhrI6BZ18)
+[Super El Niño 2026 update: 60% odds it is the strongest since 1950. Don't drain your pool.](https://youtu.be/VI9jPNK161k)[Where the water disappears: how vanishing edge pools really work](https://youtu.be/ZWxVnID8AJ8)[The edge and the hidden tank: building the weir and catch basin](https://youtu.be/icDhrI6BZ18)
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.

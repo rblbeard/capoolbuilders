@@ -54,7 +54,7 @@ Replastering and remodeling a pool is pool work. The contractor who contracts wi
 
 ## Watch: Randy explains
 
-[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)[Your new plaster is already failing. The jackhammer did it.](https://youtu.be/ExCSAOwOp7I)[The Wheelbarrow Problem: why concrete pool repairs fail](https://youtu.be/pvhh90274EM)
+[Super El Niño 2026 update: 60% odds it is the strongest since 1950. Don't drain your pool.](https://youtu.be/VI9jPNK161k)[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)[Your new plaster is already failing. The jackhammer did it.](https://youtu.be/ExCSAOwOp7I)[The Wheelbarrow Problem: why concrete pool repairs fail](https://youtu.be/pvhh90274EM)
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
 
