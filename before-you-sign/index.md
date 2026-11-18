@@ -46,6 +46,6 @@ No bids yet? [Have the pool specified first](https://capoolbuilders.com/plan-bef
 
 ## Watch: what happens when the money gets ahead of the work
 
-[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)
+[Your pool contractor stopped showing up: what to do in the first 10 days](https://youtu.be/Mroxk8IYJjM)[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.

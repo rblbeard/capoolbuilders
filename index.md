@@ -81,6 +81,7 @@ _Get the free kit →_](https://capoolbuilders.com/free-pool-bid-kit/)
 
 ## Homeowner guides
 
+  * [Your pool builder stopped showing up: the first 10 days](https://capoolbuilders.com/guides/pool-builder-stopped-showing-up/)
   * [Pool remodeling and replastering: what to check](https://capoolbuilders.com/guides/pool-remodeling-replastering/)
   * [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/)
   * [Which pool equipment should I get? Pentair, Hayward or Jandy](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/)
@@ -90,7 +91,7 @@ _Get the free kit →_](https://capoolbuilders.com/free-pool-bid-kit/)
 
 ## Watch: a pool expert explains
 
-[Concrete cancer in pools: 150 lawsuits in Texas, no ruling yet. How an expert proves ASR.](https://youtu.be/bIkefnGkFjA)[Super El Niño 2026 update: 60% odds it is the strongest since 1950. Don't drain your pool.](https://youtu.be/VI9jPNK161k)[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)
+[Your pool contractor stopped showing up: what to do in the first 10 days](https://youtu.be/Mroxk8IYJjM)[Concrete cancer in pools: 150 lawsuits in Texas, no ruling yet. How an expert proves ASR.](https://youtu.be/bIkefnGkFjA)[Super El Niño 2026 update: 60% odds it is the strongest since 1950. Don't drain your pool.](https://youtu.be/VI9jPNK161k)[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)[Six causes of a failed pool finish, in four minutes](https://youtu.be/FD5N00Vn2Yw)[The builder blamed your pool guy: how an expert proves why plaster failed](https://youtu.be/B7Skq9riank)
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
 

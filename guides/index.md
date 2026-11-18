@@ -10,6 +10,7 @@ Source: https://capoolbuilders.com/guides/
 
 Written by Randy Beard, licensed pool contractor and pool construction expert witness.
 
+  * [Your Pool Builder Stopped Showing Up: What to Do in the First 10 Days (California)](https://capoolbuilders.com/guides/pool-builder-stopped-showing-up/)
   * [What's Not in Your Pool Contract (and What It Will Cost You Later)](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/)
   * [Pool Equipment: Pentair, Hayward or Jandy?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/)
   * [Pool Remodeling and Replastering in California: What to Check](https://capoolbuilders.com/guides/pool-remodeling-replastering/)

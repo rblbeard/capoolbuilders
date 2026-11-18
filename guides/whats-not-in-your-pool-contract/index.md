@@ -60,7 +60,7 @@ The full list of what California requires in the contract itself is on the [befo
 
 ## Watch: Randy explains
 
-[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)
+[Your pool contractor stopped showing up: what to do in the first 10 days](https://youtu.be/Mroxk8IYJjM)[8 pool owners paid a contractor $117,545. They were being paid back $25 at a time.](https://youtu.be/1DAGjpPiwKg)
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
 
@@ -72,8 +72,9 @@ By Randy Beard, licensed California pool contractor (CSLB #871188, C-53 Swimming
   2. **No bids yet?** [Get a written pool specification first](https://capoolbuilders.com/plan-before-you-bid/), so every builder prices the same pool.
   3. **Got a bid or a contract?** [Have a licensed pool contractor review it before you sign](https://capoolbuilders.com/contract-review/).
   4. [What's not in your pool contract](https://capoolbuilders.com/guides/whats-not-in-your-pool-contract/): the items most often left out.
-  5. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
-  6. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
+  5. [Pool builder stopped showing up?](https://capoolbuilders.com/guides/pool-builder-stopped-showing-up/) What to do in the first 10 days.
+  6. [Which pool equipment should I get?](https://capoolbuilders.com/guides/pool-equipment-pentair-hayward-jandy/) Pentair, Hayward or Jandy.
+  7. [The before-you-sign checklist](https://capoolbuilders.com/before-you-sign/): what California requires in the contract.
 
 
 
