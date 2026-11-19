@@ -98,7 +98,7 @@ Need the work in place evaluated before a new builder touches it? Randy Beard in
 
 Videos open on YouTube. Narration uses an AI voice modeled on Randy's, from his scripts.
 
-By Randy Beard, licensed California pool contractor (CSLB #871188, C-53 Swimming Pool and C-27 Landscaping). Updated November 9, 2026. Practical guidance, not legal advice.
+By Randy Beard, licensed California pool contractor (CSLB #871188, C-53 Swimming Pool and C-27 Landscaping). Updated November 18, 2026. Practical guidance, not legal advice.
 
 ## Your next steps
 
